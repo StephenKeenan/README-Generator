@@ -8,12 +8,6 @@ const writeFileAsync = util.promisify(fs.writeFile);
 const promptUser = () =>
     inquirer.prompt([
         {
-            type: 'list',
-            name: 'Table of Contents',
-            message: 'Table of Contents?',
-            choices: ['Description', 'Installation', 'Usage', 'Contribution', 'Testing', 'License', 'Questions'],
-        },
-        {
             type: 'input',
             name: 'Title',
             message: 'Title?',
@@ -61,9 +55,6 @@ const promptUser = () =>
         },
     ]);
 
-const questions = [
-
-];
 
 // function to write README file
 function writeToFile(fileName, data) {
