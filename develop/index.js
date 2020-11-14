@@ -45,7 +45,7 @@ const promptUser = () =>
         },
         {
             type: 'input',
-            name: 'github',
+            name: 'Github',
             message: 'Enter your GitHub Username',
         },
         {
@@ -63,7 +63,11 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
 
-}
+    promptUser()
+
+        .then(function (data) {
+            const README = generateMarkdown(data);
+
 
 // function call to initialize program
 init();
