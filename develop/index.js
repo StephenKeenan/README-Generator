@@ -67,7 +67,8 @@ function init() {
 
         .then(function (data) {
             const README = generateMarkdown(data);
-
+        })
+}
 
 // function call to initialize program
 init();
