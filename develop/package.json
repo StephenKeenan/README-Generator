@@ -1,5 +1,5 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "README Generator",
   "main": "index.js",
@@ -9,10 +9,11 @@
   "author": "Stephen Keenan",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "path": "^0.12.7"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/StephenKeenan/README-Generator"
+    "type": "git",
+    "url": "git+https://github.com/StephenKeenan/README-Generator"
   }
 }
