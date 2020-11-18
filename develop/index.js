@@ -29,7 +29,7 @@ const questions = [
     {
         type: 'input',
         name: 'Contribution',
-        message: 'Constributors?',
+        message: 'Contributors?',
     },
     {
         type: 'input',
@@ -50,7 +50,7 @@ const questions = [
     {
         type: 'input',
         name: 'Email',
-        message: 'Enter your contact email.',
+        message: 'Enter your contact email',
     },
 ]
 

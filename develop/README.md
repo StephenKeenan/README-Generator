@@ -1,7 +1,7 @@
-# 
+# README Generator
 
   ## Description
-  test
+  A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   ## Table of Contents
   * [Installation](#Installation)
@@ -12,20 +12,20 @@
   * [Questions](#)
 
   ## Installation
-  dfsdfg
+  The program requires Node.js and Inquirer.js. To install the required dependencies, run the command "npm i".
 
   ## Usage
-  fewf
+  When the user runs 'node index.js', they will be prompted to answer several questions about their repository. A README.md file will be generated with their responses once they have subbmitted all of their answers.
 
   ## Contributors
-  sfg
+  None
 
   ## Testing
-  dffs
+  To run tests, run the command 'npm test.'
 
   ## Licenses
-  B
+  A
 
   ## Questions
-  * <https://github.com/gdfg>
-  * <dfk>
+  * <https://github.com/StephenKeenan>
+  * <stpehenkeenan02@gmail.com>
