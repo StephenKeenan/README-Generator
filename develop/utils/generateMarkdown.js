@@ -11,7 +11,7 @@ function generateMarkdown(data) {
   * [Contributors](#Contribution)
   * [Testing](#Testing)
   * [Licenses](#Licenses)
-  * [Questions](#)
+  * [Questions](#Questions)
 
   ## Installation
   ${data.Installation}
