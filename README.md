@@ -9,7 +9,7 @@
   * [Contributors](#Contribution)
   * [Testing](#Testing)
   * [Licenses](#Licenses)
-  * [Questions](#)
+  * [Questions](#Questions)
 
   ## Installation
   The program requires Node.js and Inquirer.js. To install the required dependencies, run the command 'npm i'.
