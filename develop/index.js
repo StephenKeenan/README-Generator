@@ -40,7 +40,7 @@ const questions = [
         type: 'list',
         name: 'Licenses',
         message: 'Licenses?',
-        choices: ['A', 'B', 'C', 'D'],
+        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
     },
     {
         type: 'input',
