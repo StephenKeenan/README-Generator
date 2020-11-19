@@ -15,7 +15,7 @@
   The program requires Node.js and Inquirer.js. To install the required dependencies, run the command 'npm i'.
 
   ## Usage
-  When the user runs 'node index.js', they will be prompted to answer several questions about their repository. A README.md file will be generated with their responses once they have subbmitted all of their answers.
+  When the user runs 'node index.js', they will be prompted to answer several questions about their project. A README.md file will be generated with their responses once they have submitted all of their answers.
 
   ## Contributors
   Stephen Keenan
