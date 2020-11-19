@@ -31,4 +31,8 @@
   * <stephenkeenan02@gmail.com>
 
   ## Demonstration
-  [See it in action] (https://www.youtube.com/watch?v=D1VO0Mlpc7U)
+  This README was generated using this program.
+
+  See it in action at https://www.youtube.com/watch?v=D1VO0Mlpc7U
+
+  
